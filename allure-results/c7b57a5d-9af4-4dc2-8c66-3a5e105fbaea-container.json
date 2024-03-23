@@ -1,0 +1,1 @@
+{"uuid":"c7b57a5d-9af4-4dc2-8c66-3a5e105fbaea","name":"sda.tests.BankingPageTests","children":["58eb0165-bfe3-47ce-93bf-73954dcf34a4"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711076168400,"stop":1711076172388}],"afters":[],"start":1711076168361,"stop":1711076173208}

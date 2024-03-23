@@ -1,0 +1,1 @@
+{"uuid":"06a1ea9d-f467-4403-949d-8287bb8667a7","name":"SDA_POM_TestNG_2024","children":["a0573056-7e48-41ec-80c6-a9e1e2cd02dd"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711197721504,"stop":1711197724555}],"afters":[],"start":1711197721476,"stop":1711197745937}

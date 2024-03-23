@@ -1,0 +1,1 @@
+{"uuid":"792d5d83-a980-47e2-bb9f-d9477cd00b01","name":"sda.pages.Bank.BankManagerTest","children":["80fd13ed-7a82-474e-8b19-f2334d7ed2bd"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711115142789,"stop":1711115148765}],"afters":[],"start":1711115142742,"stop":1711115151566}

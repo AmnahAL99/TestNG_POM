@@ -1,0 +1,1 @@
+{"uuid":"afe7867b-1538-4a90-b079-c391d3bf00d7","name":"sda.new1.custmerAccountMethodTest","children":["462a2283-fc85-4fc6-ab54-b68a5b9f85dd"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711108249423,"stop":1711108262719}],"afters":[],"start":1711108249377,"stop":1711108266163}

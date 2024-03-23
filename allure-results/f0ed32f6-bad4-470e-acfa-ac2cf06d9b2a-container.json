@@ -1,0 +1,1 @@
+{"uuid":"f0ed32f6-bad4-470e-acfa-ac2cf06d9b2a","name":"sda.new1.OpenAccoutTest","children":["6448bcfd-42d3-4693-82d0-5e07a37ca2d0"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711108134974,"stop":1711108140431}],"afters":[],"start":1711108134926,"stop":1711108142593}

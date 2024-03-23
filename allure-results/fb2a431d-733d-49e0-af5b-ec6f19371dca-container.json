@@ -1,0 +1,1 @@
+{"uuid":"fb2a431d-733d-49e0-af5b-ec6f19371dca","name":"sda.new1.managerTest","children":["424e5fbe-ea45-4092-9495-50782058c999"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711108175986,"stop":1711108181996}],"afters":[],"start":1711108175938,"stop":1711108184318}

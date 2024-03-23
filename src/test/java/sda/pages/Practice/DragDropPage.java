@@ -5,6 +5,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import sda.utilities.Driver;
 public class DragDropPage {
+    /* *************************************************************************************
+    Go to URL : http://www.dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
+Fill in capitals by country.
+  *************************************************************************************  */
     public DragDropPage() {
         PageFactory.initElements(Driver.getDriver(), this);
     }
